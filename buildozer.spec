@@ -1,0 +1,9 @@
+title = My Kivy App
+package.name = mykivyapp
+package.domain = org.sujit
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas
+requirements = python3,kivy
+android.api = 33
+android.minapi = 21
+android.ndk = 25b
